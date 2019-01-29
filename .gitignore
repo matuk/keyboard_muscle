@@ -1,1 +1,3 @@
+*.ipynb
+results.txt
 .ipynb_checkpoints
